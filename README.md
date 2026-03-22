@@ -87,7 +87,7 @@ My name is <b>Davincenzoky</b> and I'm a <b>Graphics Designer | Web System Devel
 ###
 
 <p align="left">
-<a href="(https://web.facebook.com/DavinciBadua20/)" target="_blank">
+<a href="https://web.facebook.com/DavinciBadua20/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vbadua20/" target="_blank">
