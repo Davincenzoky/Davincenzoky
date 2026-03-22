@@ -67,7 +67,7 @@ My name is <b>Davincenzoky</b> and I'm a <b>Graphics Designer | Web System Devel
 ###
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=badzky&show_icons=true&theme=tokyonight&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davincenzoky&show_icons=true&theme=tokyonight&hide_title=true" height="150" />
 </p>
 
 ###
@@ -77,7 +77,7 @@ My name is <b>Davincenzoky</b> and I'm a <b>Graphics Designer | Web System Devel
 ###
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=badzky&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Davincenzoky&theme=tokyonight" height="150" />
 </p>
 
 ###
@@ -87,13 +87,13 @@ My name is <b>Davincenzoky</b> and I'm a <b>Graphics Designer | Web System Devel
 ###
 
 <p align="left">
-<a href="YOUR_LINK" target="_blank">
+<a href="(https://web.facebook.com/DavinciBadua20/)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
 </a>
-<a href="YOUR_LINK" target="_blank">
+<a href="https://www.linkedin.com/in/vbadua20/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_LINK" target="_blank">
+<a href="https://davincenzoky.github.io/myportfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?logo=github" />
 </a>
 </p>
