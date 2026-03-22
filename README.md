@@ -1,5 +1,10 @@
-<h2 align="left">Hi this is me DAVINCENZOKY<br>your Friendly coder</h2>
+<h2 align="left">Hi this is me DAVINCENZOKY<br>
+  </h2>
+Graphics Designer | 💻 Web System Developer | 📚 Educator
 
+📍 Palawan, Philippines
+
+Fuelled by creativity and a love for technology, I turn ideas into digital realities—one pixel and one line of code at a time.
 ###
 
 <div align="left">
