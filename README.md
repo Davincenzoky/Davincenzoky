@@ -1,56 +1,76 @@
-<h2 align="left">Hi this is me DAVINCENZOKY<br>
-  </h2>
-Graphics Designer | 💻 Web System Developer | 📚 Educator
+<h2 align="left">Hi, this is me <b>DAVINCENZOKY</b> 👋<br>
+Your Friendly Coder</h2>
 
-📍 Palawan, Philippines
-
-Fuelled by creativity and a love for technology, I turn ideas into digital realities—one pixel and one line of code at a time.
 ###
+
+<p align="left">
+Fuelled by creativity and technology, I turn ideas into digital realities—one pixel and one line of code at a time. By day, I develop web systems. By heart, I teach and inspire as an IT Instructor at Fullbright College. ☕ "Coffebits" is where creativity meets code.
+</p>
+
+###
+
+<h2 align="left">🛠️ Tech & Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
 
 ###
 
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davincenzoky&show_icons=true&theme=tokyonight&hide_title=true" height="150" />
+</p>
+
+###
+
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Davincenzoky&theme=tokyonight" height="150" />
+</p>
+
+###
+
+<h2 align="left">🌐 Connect with me</h2>
+
 <div align="left">
   <a href="https://discord.com/channels/@vincentbadua6843" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="baduav20@gmail.com" target="_blank">
+  <a href="mailto:baduav20@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vbadua20/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://davincenzoky.github.io/myportfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
 </div>
 
 ###
+
+<h2 align="left">🎓 About Me & Philosophy</h2>
+
+<p align="left">
+By day, I design and develop engaging web systems. By heart, I teach and inspire as an IT Instructor. Licensed Professional Teacher (LPT) with a Master's in IT, I believe learning should be practical, creative, and impactful. ☕
+</p>
+
+<blockquote align="left">
+"Coffebits – Where creativity meets code, and ideas brew into innovation."
+</blockquote>
